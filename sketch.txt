@@ -1,0 +1,6 @@
+basic outlay of page:
+initially choose wanted filters, which will be of the type of food or other service
+then display the "Estabelecimentos" that follow those filters
+basic modeling:
+Estabelecimento(nome, telefone, endereco, link, id_tipo)
+TiposComida(id, nome, descricao)
